@@ -1,5 +1,5 @@
-! Title: Harpee - Danish Multipurpose
-! Description: Multi purpose filterlist for users using danish services. Uncluding allowlists and addtional blocking
+! Title: Harpee - Danish Allowlist
+! Description: Allowlist for users using danish services.
 ! Version: 0.1
 ! Homepage: https://github.com/waulau/filterlists
 ! Last modified: 2025-09-09T11:09
