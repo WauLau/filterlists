@@ -1,0 +1,15 @@
+! Title: Harpee - Danish Multipurpose
+! Description: Multi purpose filterlist for users using danish services. Uncluding allowlists and addtional blocking
+! Version: 0.1
+! Homepage: https://github.com/waulau/filterlists
+! Last modified: 2025-09-09T11:09
+
+! Critical Services such as MitID, Lectio, Unilogin and so on
+@@||lectio.dk^$stealth,removeparam,cookie,important,urlblock
+@@||unilogin.dk^$stealth,removeparam,cookie,important,urlblock
+@@||nemlog-in.dk^$stealth,removeparam,cookie,important,urlblock
+@@||mitid.dk^$stealth,removeparam,cookie,important,urlblock
+@@||survey.alchemer.eu$stealth,removeparam,cookie,important
+@@||surveygizmo.eu$stealth,removeparam,cookie,important
+@@||w3.org^$stealth,removeparam,cookie,important
+@@||litteraturlisteautomaten.dk^$important,document
